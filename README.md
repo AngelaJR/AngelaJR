@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a Front End Developer at [Isobar](https://www.isobar.com/en-us). If you are looking to rent a car go checkout the project [Alamo Rent a Car](https://www.alamo.com/en/home.html)!
-- 🌱 I’m currently learning and improving Jest unit testing and Enzyme! Always important to test your code before any merge.
-- 💬 Ask me about Javascript, React, React Hooks and Hiking!
+- 🔭 I’m a software engineer, specialized in Front-End development for client-side web applications. I thrive to provided subject matter expertise by understanding and analyzing the business process and customer’s needs, creating innovative solutions that result in meaningful and intuitive experiences for the end-user.
+- 💬 Ask me about JavaScript, React, React Hooks and Hiking!
 - 👩🏼‍💻 Computer Science Graduate.
 
 ### Find me around the web 🌎:
